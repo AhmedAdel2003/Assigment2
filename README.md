@@ -1,4 +1,5 @@
 # Assigment2
+![alt text](https://github.com/AhmedAdel2003/Assigment2/blob/main/src/UML.png)
 # User class :
 In our application, we need the User class, which is basic because every person in this program is a user, such as the staff, manager, director, that is, it is a super class. Each of the classes mentioned inherits the basic characteristics from it.
 ### Attributes
